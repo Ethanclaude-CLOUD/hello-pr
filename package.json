@@ -1,0 +1,10 @@
+{
+  "name": "hello-pr",
+  "version": "1.0.0",
+  "description": "A tiny practice project for learning the GitHub PR workflow.",
+  "main": "src/math.js",
+  "scripts": {
+    "test": "node test/math.test.js"
+  },
+  "license": "MIT"
+}
